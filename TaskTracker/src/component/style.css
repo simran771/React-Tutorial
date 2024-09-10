@@ -1,0 +1,8 @@
+.image{
+    border: 10px solid greenyellow;
+}
+.xyz img{
+    height:200px;
+    border-radius: 50px;
+    border: 10px solid rgb(43, 145, 234);
+}
